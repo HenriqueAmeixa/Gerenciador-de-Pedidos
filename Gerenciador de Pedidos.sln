@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gerenciador de Pedidos", "Gerenciador de Pedidos\Gerenciador de Pedidos.csproj", "{065543BA-6D86-47C0-8D03-8B0CFF6FC21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bibliotecas", "Bibliotecas\Bibliotecas.csproj", "{B966036E-7644-47A6-8833-6F91F2B969D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065543BA-6D86-47C0-8D03-8B0CFF6FC21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065543BA-6D86-47C0-8D03-8B0CFF6FC21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065543BA-6D86-47C0-8D03-8B0CFF6FC21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065543BA-6D86-47C0-8D03-8B0CFF6FC21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B966036E-7644-47A6-8833-6F91F2B969D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B966036E-7644-47A6-8833-6F91F2B969D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B966036E-7644-47A6-8833-6F91F2B969D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B966036E-7644-47A6-8833-6F91F2B969D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC67936-0378-4ECC-9385-B8A26DBC4A7E}
+	EndGlobalSection
+EndGlobal
